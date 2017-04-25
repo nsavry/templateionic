@@ -1,0 +1,10 @@
+{
+  "name": "paysage",
+  "app_id": "",
+  "documentRoot": "./www",
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/css/main*.css"
+  ]
+}
